@@ -1,4 +1,4 @@
 # lighter-mime Change Log
 
-## v1.0.0 - TODO
-* `major` Community release.
+## v1.0.0 - 2015-12-01
+* `major` First release.
