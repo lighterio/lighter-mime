@@ -4,7 +4,7 @@
   "description": "A lightweight JavaScript MIME type library.",
   "dependencies": {},
   "devDependencies": {
-    "exam": ">=1.1.1 <2"
+    "exam": ">=1.3.0 <2"
   },
   "bundledDependencies": [],
   "keywords": [
